@@ -21,8 +21,7 @@ python aliyun-python-commonapi.py
 ```
 ### 使用例子：
 * 查询有哪些二级域名
-
-	######list_domain()
+	###### list_domain()
 * 查询二级域名有哪些解析
 	###### list_dns_record('test.xin')
 * 修改域名解析
